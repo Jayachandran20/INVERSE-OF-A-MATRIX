@@ -20,6 +20,7 @@ import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 result=np.linalg.inv(A)
 print(result)
+```
 
 ## Output:
 ![inversermatrix](https://user-images.githubusercontent.com/118447015/209442676-cbc46a20-fd82-4f57-a9a2-bdfc5ed5a3ab.png)
